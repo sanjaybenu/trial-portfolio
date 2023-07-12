@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/trial-portfolio/static/css/main.3167909a.css",
+    "main.js": "/trial-portfolio/static/js/main.3ec5d129.js",
+    "static/media/Go-Blogging-Tech.png": "/trial-portfolio/static/media/Go-Blogging-Tech.8b2fa3a619b66dc0302c.png",
+    "static/media/AIO-App.png": "/trial-portfolio/static/media/AIO-App.ec05877c8cc5fe2340b8.png",
+    "static/media/Recipe-Bank.png": "/trial-portfolio/static/media/Recipe-Bank.0abe53f54682129edbd0.png",
+    "static/media/Scheduler-App.png": "/trial-portfolio/static/media/Scheduler-App.c49b72fb8634abccfd0f.png",
+    "static/media/Weather-App-With-Map.png": "/trial-portfolio/static/media/Weather-App-With-Map.ba7255006cc5ea5af2c8.png",
+    "static/media/Text-Editing-Everywhere.png": "/trial-portfolio/static/media/Text-Editing-Everywhere.dad08fcae39117d3ceaa.png",
+    "static/media/sanjay.jpeg": "/trial-portfolio/static/media/sanjay.b7e2857c34f4f4e99d9c.jpeg",
+    "index.html": "/trial-portfolio/index.html",
+    "main.3167909a.css.map": "/trial-portfolio/static/css/main.3167909a.css.map",
+    "main.3ec5d129.js.map": "/trial-portfolio/static/js/main.3ec5d129.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3167909a.css",
+    "static/js/main.3ec5d129.js"
+  ]
+}
