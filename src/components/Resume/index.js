@@ -56,7 +56,7 @@ const Resume = () => {
         </Accordion.Item>
       </Accordion>
       <div id="button">
-        <a href="./resume.pdf" download>
+        <a href="./Assets/resume.pdf" download>
           <button className="btn btn-primary">Download Resume</button>
         </a>
       </div>
