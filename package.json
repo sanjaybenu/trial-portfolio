@@ -2,6 +2,7 @@
   "name": "my-react-portfolio",
   "version": "0.1.0",
   "private": true,
+  
   "homepage": " https://sanjaybenu.git.io/trial-portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.1",
