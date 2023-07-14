@@ -24,9 +24,11 @@ const App = () => {
           setCurrentPage={setCurrentPage}
         />
       </Header>
-      <section>
+      
+      <section id='app'>
         <Page currentPage={currentPage} />
       </section>
+    
 
       <Footer />
     </div>
