@@ -22,12 +22,14 @@
   .footer p {
     color: #00B5AD;
     align-self: flex-start;
+    font-size: 8px !important;
   }
   
   .icon {
     padding: 5px;
     color: #00B5AD;
   }
+
 
   @media screen and (max-width : 540px) {
     .footer {

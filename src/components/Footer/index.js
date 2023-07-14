@@ -20,7 +20,7 @@ function Footer (){
     <a href="https://www.github.com" target="_blank" rel ="noreferrer"><FontAwesomeIcon icon={faGithub} className="icon" /></a>
   </div>
   <h5>Made with <FontAwesomeIcon  icon={faReact} /> by Sanjay Chopra</h5>
-  <p>© Sanjay Chopra</p>
+  <p>© 2023 Sanjay Chopra</p>
 </footer>
     )
 }
