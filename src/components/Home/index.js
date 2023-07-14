@@ -28,8 +28,8 @@ const Home = () => {
       </Fade>
       <p>
         <span>
-        <Typist typingDelay={300} loop={true} startDelay={10000}>
-            {languages.map((language) => (          
+          <Typist typingDelay={300} loop={true} startDelay={10000}>
+            {languages.map((language) => (
               <React.Fragment key={language}>
                 <span>{language}</span>
 
