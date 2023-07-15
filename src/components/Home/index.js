@@ -33,11 +33,11 @@ const Home = () => {
               <React.Fragment key={language}>
                 <span>{language}</span>
 
-                <Typist.Backspace count={language.length} pause={true} />
+                <Typist.Backspace count={language.length} />
               </React.Fragment>
             ))}
             <h1>Welcome to my World </h1>
-            <Typist.Backspace count={22} pause={true} />
+            <Typist.Backspace count={22} />
           </Typist>
         </span>
       </p>
