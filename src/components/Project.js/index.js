@@ -1,4 +1,4 @@
-const RenderProject = ({ project }) => {
+const Project = ({ project }) => {
   const { title, desc, github, deployedapp, image } = project;
 
   return (
@@ -26,4 +26,4 @@ const RenderProject = ({ project }) => {
   );
 };
 
-export default RenderProject;
+export default Project;

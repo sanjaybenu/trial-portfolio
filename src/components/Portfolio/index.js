@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import RenderProject from "../Project.js";
+import Project from "../Project.js";
 
 const blogging = require("../../images/Go-Blogging-Tech.png");
 const recipe = require("../../images/Recipe-Bank.png");
@@ -86,7 +86,7 @@ const Portfolio = () => {
     <div className="container my-5">
       <div className="row">
         {Projects.map((project, index) => (
-          <RenderProject project={project} key={index + 1} />
+          <Project project={project} key={index + 1} />
         ))}
       </div>
     </div>

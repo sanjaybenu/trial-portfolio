@@ -1,10 +1,16 @@
 import React from "react";
-
 import "./style.css";
+
+const img = require("../../images/avatar.png")
 
 const About = () => {
   return (
+    <>
+    <div id="avatar">
+    <img src={img} alt="avatar" />
+    </div>
     <div id="about">
+     
       <p>
         My name is Sanjay Chopra and I am based in Melbourne, Australia. I am a
         full stack web developer with expertise in HTML, CSS, Javascript,
@@ -29,6 +35,7 @@ const About = () => {
         contact page.
       </p>
     </div>
+    </>
   );
 };
 
